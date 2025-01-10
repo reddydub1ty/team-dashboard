@@ -1,0 +1,9 @@
+# Core dependencies
+logging>=0.5.1.2
+requests>=2.28.1
+PyYAML>=6.0
+
+# Development dependencies
+pytest>=7.1.2
+black>=22.3.0
+flake8>=4.0.1
